@@ -1,0 +1,15 @@
+{
+  "originHash" : "1ac016cd656aec703294bba6fa94dd094fda6443983513752c14fec228187571",
+  "pins" : [
+    {
+      "identity" : "aylocationmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ahmedmoyousef/AYLocationManager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "186a0974296fd0b0db358df392adea7ad4376b92"
+      }
+    }
+  ],
+  "version" : 3
+}
